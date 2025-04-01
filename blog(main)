@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Blog</title>
+<link rel="stylesheet" type="text/css" href="blog.css">
+</head>
+<body>
+    <header>
+        <h1>Blog</h1>
+        <h2>Tech Student</h2>
+    </header>
+    <main>
+        <section id="about-me">
+            <h1>About Me</h1>
+            <p>Hello! I'm Fousia Sajimon, a B.Tech Computer Science student from Mundakayam, Kerala, India. I'm passionate about coding, problem-solving, and learning new skills.</p>
+            <p>In my free time, I enjoy singing, reading, dancing, and learning new skills.</p>
+        </section>
+        <section id="education-and-career">
+            <h1>Education and Career</h1>
+            <p>I'm currently pursuing B.Tech in Computer Science and Engineering.</p>
+            <p>My goal is to become a skilled software engineer specializing in AI and Machine Learning.</p>
+        </section>
+        <section id="technical-skills-and-interests">
+            <h1>Technical Skills and Interests</h1>
+            <p>I have proficiency in Python and C++.</p>
+            <p>I'm interested in Web Development and Data Analytics.</p>
+            <p>I'm familiar with HTML, CSS, and Figma.</p>
+        </section>
+        <section id="achievements-and-experience">
+            <h1>Achievements and Experience</h1>
+            <p>I was the First Runner-up in the NASA Space Apps Challenge at the intercollege level and first at intra-college level.</p>
+            <p>It was an amazing experience, and I'm proud of what my team and I achieved through hard work and dedication.</p>
+        </section>
+        <section id="short-term-and-long-term-goals">
+            <h1>Short-term and Long-term Goals</h1>
+            <p>In the short term, I want to learn new technical skills, work on mini projects, and perform well in my upcoming semesters.</p>
+            <p>Long-term, I aim to excel in coding, web development, and data analytics, and work with top companies like IBM, UST, Infopark, Technopark, or TCS.</p>
+        </section>
+    </main>
+</body>
+</html>
